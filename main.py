@@ -54,13 +54,13 @@ def masg(call):
 		
 		K = types.InlineKeyboardButton(text ="(Q_8_P)", callback_data="F3")
     
-        J = types.InlineKeyboardButton(text ="(N_G_6)", callback_data="F4")
+                J = types.InlineKeyboardButton(text ="(N_G_6)", callback_data="F4")
     
-        I = types.InlineKeyboardButton(text ="(B_5_7)", callback_data="F5")
+                I = types.InlineKeyboardButton(text ="(B_5_7)", callback_data="F5")
     
-        O = types.InlineKeyboardButton(text ="(I_C_E)", callback_data="F6")
+                O = types.InlineKeyboardButton(text ="(I_C_E)", callback_data="F6")
 		
-        M = types.InlineKeyboardButton('DEV', url='https://t.me/K_8_U')
+                M = types.InlineKeyboardButton('DEV', url='https://t.me/K_8_U')
 		
 		M = types.InlineKeyboardButton('DEV', url='https://t.me/K_8_U')
 		
