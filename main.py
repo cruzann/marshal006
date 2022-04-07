@@ -55,13 +55,12 @@ def masg(call):
 		K = types.InlineKeyboardButton(text ="(Q_8_P)", callback_data="F3")
 		
 		J = types.InlineKeyboardButton(text ="(N_G_6)", callback_data="F4")
-    
-                I = types.InlineKeyboardButton(text ="(B_5_7)", callback_data="F5")
-    
-                O = types.InlineKeyboardButton(text ="(I_C_E)", callback_data="F6")
 		
-                M = types.InlineKeyboardButton('DEV', url='https://t.me/K_8_U')
+		I = types.InlineKeyboardButton(text ="(B_5_7)", callback_data="F5")
 		
+		O = types.InlineKeyboardButton(text ="(I_C_E)", callback_data="F6")
+		
+		M = types.InlineKeyboardButton('DEV', url='https://t.me/K_8_U')
 		M = types.InlineKeyboardButton('DEV', url='https://t.me/K_8_U')
 		
 		bot.edit_message_text(chat_id=call.message.chat.id,message_id=call.message.message_id, text="- أهلاً بكً عزيزي المستخدم \n\n- بوت تشكير يوزرات تلجرام 🧑‍💻\n\n♻️ لوحة التحكم الخاصه بك ♨️",reply_markup=mas)
