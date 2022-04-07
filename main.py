@@ -53,8 +53,8 @@ def masg(call):
 		E = types.InlineKeyboardButton(text ="(FF8FF)", callback_data="F2")
 		
 		K = types.InlineKeyboardButton(text ="(Q_8_P)", callback_data="F3")
-    
-                J = types.InlineKeyboardButton(text ="(N_G_6)", callback_data="F4")
+		
+		J = types.InlineKeyboardButton(text ="(N_G_6)", callback_data="F4")
     
                 I = types.InlineKeyboardButton(text ="(B_5_7)", callback_data="F5")
     
