@@ -1,2 +1,2 @@
-BOT_TOKEN = "5180136341:AAFp1-0zkbD_U6Si-F78F_Sd9A-00WwhR-M"
-APP_URL = "https://fartola400.herokuapp.com/" + BOT_TOKEN
+BOT_TOKEN = "5367788764:AAHpdLXTofS9k7Rz802XoIbY8BH4-UBELR0"
+APP_URL = "https://haider20010.herokuapp.com/" + BOT_TOKEN
